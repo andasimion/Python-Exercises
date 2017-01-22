@@ -7,7 +7,6 @@
 
 import random
 secret_number = random.randint(1,9)
-print secret_number
 
 attempt1_string = raw_input ('I have chosen a number between 1 and 9. Try to guess the number:')
 count = 0
